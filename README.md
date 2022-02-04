@@ -1,2 +1,2 @@
-# Hi I am Anish Kumar 🙂 👨🏽‍💻
-
+# Hi I am Anish 🙂 👨🏽‍💻
+![Poster Image](git_page.png)
