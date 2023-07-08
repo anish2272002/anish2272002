@@ -1,2 +1,3 @@
 # Hi I am Anish 🙂 👨🏽‍💻
-![Poster Image](git_page.png)
+
+![Poster Image](git_back.png)
